@@ -1,0 +1,24 @@
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Domain/bin/Debug/net6.0/Domain.deps.json
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Domain/bin/Debug/net6.0/Domain.dll
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Domain/bin/Debug/net6.0/Domain.pdb
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Domain/obj/Debug/net6.0/Domain.dll
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Domain/obj/Debug/net6.0/refint/Domain.dll
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Domain/obj/Debug/net6.0/Domain.pdb
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Domain/obj/Debug/net6.0/ref/Domain.dll
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Domain\bin\Debug\net6.0\Domain.dll
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Domain\obj\Debug\net6.0\Domain.dll
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Domain\obj\Debug\net6.0\ref\Domain.dll

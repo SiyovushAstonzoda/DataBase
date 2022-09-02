@@ -1,0 +1,36 @@
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/bin/Debug/net6.0/Main
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/bin/Debug/net6.0/Main.deps.json
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/bin/Debug/net6.0/Main.runtimeconfig.json
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/bin/Debug/net6.0/Main.dll
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/bin/Debug/net6.0/Main.pdb
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/bin/Debug/net6.0/Domain.dll
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/bin/Debug/net6.0/Domain.pdb
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/obj/Debug/net6.0/Main.csproj.AssemblyReference.cache
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/obj/Debug/net6.0/Main.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/obj/Debug/net6.0/Main.AssemblyInfoInputs.cache
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/obj/Debug/net6.0/Main.AssemblyInfo.cs
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/obj/Debug/net6.0/Main.csproj.CoreCompileInputs.cache
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/obj/Debug/net6.0/Main.csproj.CopyComplete
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/obj/Debug/net6.0/Main.dll
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/obj/Debug/net6.0/refint/Main.dll
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/obj/Debug/net6.0/Main.pdb
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/obj/Debug/net6.0/Main.genruntimeconfig.cache
+/Users/nurullosulaymonov/Downloads/Telegram Desktop/TenthHomeWork/Main/obj/Debug/net6.0/ref/Main.dll
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\bin\Debug\net6.0\Main.exe
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\bin\Debug\net6.0\Main.deps.json
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\bin\Debug\net6.0\Main.runtimeconfig.json
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\bin\Debug\net6.0\Main.dll
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\bin\Debug\net6.0\Main.pdb
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\bin\Debug\net6.0\Domain.dll
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\bin\Debug\net6.0\Domain.pdb
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\obj\Debug\net6.0\Main.csproj.AssemblyReference.cache
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\obj\Debug\net6.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\obj\Debug\net6.0\Main.AssemblyInfoInputs.cache
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\obj\Debug\net6.0\Main.AssemblyInfo.cs
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\obj\Debug\net6.0\Main.csproj.CoreCompileInputs.cache
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\obj\Debug\net6.0\Main.csproj.CopyComplete
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\obj\Debug\net6.0\Main.dll
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\obj\Debug\net6.0\refint\Main.dll
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\obj\Debug\net6.0\Main.pdb
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\obj\Debug\net6.0\Main.genruntimeconfig.cache
+D:\Soft-Club\C#\C# Projects\HomeTasks (August 2022 C#)\TenthHomeWork\Main\obj\Debug\net6.0\ref\Main.dll
